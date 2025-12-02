@@ -12,4 +12,3 @@ gitignore
 .vscode/launch.json
 .vscode/ipch
 src/config.h
-src/config_sample.h
